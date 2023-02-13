@@ -1,4 +1,4 @@
 # react-native-mobile-header-animation
 
 <!-- display gif preview -->
-<img src="./assets/preview_001.gif" width="300"/>
+<video src="./assets/preview_001.mov" width="300" autoplay loop></video>
